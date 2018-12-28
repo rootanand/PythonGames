@@ -1,6 +1,6 @@
-# Rock Paper Sicssors Game
+# Rock Paper Scissors Game
 
-## Write a program to play the rock paper sicssors game. 
+## Write a program to play the rock paper scissors game. 
 
 ### Hint: Can use random.randomint() function to generate random numbers
 
