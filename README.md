@@ -1,8 +1,15 @@
 # PythonGames
 Simple Command Line Games for Practicing Python Basics
+### This repository contains exercises for students doing python and machine learning courses @ ROOT IT LEARNING CENTRE, TRICHY
 
-### This repository contains exercises for students doing Python and Machine Learning Courses @ ROOT IT LEARNING CENTRE, TRICHY
-For details Contact: 
+## Try the games in the following order of increasing difficulty
+* Rock Paper Scissors
+* Number Guessing Game
+* Tic Tac Toe
+
+
+
+For details:
 P.Anandkumar
 
 9790636324
