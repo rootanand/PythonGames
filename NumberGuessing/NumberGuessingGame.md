@@ -8,6 +8,7 @@
 * Try to make it difficult for the user to guess i.e: increase the number of attempts required to guess the secret number correctly
 * Try to make it easy for the user to guess i.e:decrease the number of attempts required to guess the secret number correctly
 * Wrtie comments on how the above two options could be achieved, and for each, explain why you are choosing the approach that you are adopting.
+* After completing a game, Prompt the user whether they want to play another (yes or no) and if the user chooses yes, allow them to repeat the game with new secret number
 
 # Do a commit for each of the following, so that your problem solving approach could be verified later
 
