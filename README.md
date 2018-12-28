@@ -1,4 +1,4 @@
-# PythonGames
+# PythonGames for Practice
 Simple Command Line Games for Practicing Python Basics
 ### This repository contains exercises for students doing python and machine learning courses @ ROOT IT LEARNING CENTRE, TRICHY
 
