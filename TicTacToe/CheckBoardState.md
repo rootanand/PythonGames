@@ -1,6 +1,6 @@
 # Check Board State
 
-## Write a program to check the state of the given tic tac toe board (3 x 3)
+## Write a program to check the state of the given Tic Tac Toe board (3 x 3)
 
 ## State could be one of the following
 * Complete when both players have three selections
@@ -16,5 +16,5 @@
 ## Step 1: Create as many meaningful functions as possible
 ## Step 2: Write comment/pseudocode for each function
 ## Step 3: Write code for all the functions
-## Step 4: Write test cases for several combinations with comments indicating the importance of the sample input
-## Step 5: Write a main driver program and test all the input combinations described in step 4 to show that the code works for all cases
+## Step 4: Write several test cases with comments indicating the importance of the sample input
+## Step 5: Write a main driver program and test all the cases described in step 4 to show that the code works for all cases
